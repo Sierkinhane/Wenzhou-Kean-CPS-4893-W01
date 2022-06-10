@@ -1,4 +1,4 @@
-### 1. Installing Anaconda on Your Platform
+### 1. Install Anaconda on Your Platform
 
 **Step 1 - Download Anaconda**
 
@@ -49,7 +49,7 @@
 
 **Step 3 - Verify Python is installed on your platform**
 
-​     Open the **command prompt** (windows) or **Terminal** (mac os) and type:	
+​     Open the **command prompt** (windows) or **Terminal** (mac os, linux) and type:	
 
 ```
 $ python
@@ -73,23 +73,35 @@ If you see the Zen of Python, the installation was successful. Exit out of the P
 >>> exit()
 ```
 
-### 2. Installing Sublime Text
+### 2. Install Sublime Text
 
 For convinience, I recommend sublime text for coding small projects. You can download it on [the official website](https://www.sublimetext.com/) according your system.
 
 ### 3. Read and Show An Image
 
- Open the **command prompt** (windows) or **Terminal** (mac os), we should install some packages via pip:
+1. Download the source code at [here](https://github.com/Sierkinhane/Wenzhou-Kean-CPS-4893-W01/archive/refs/heads/master.zip) and uzip them:
+
+```
+import cv2
+
+# load an image
+image = cv2.imread("images/logo_cn.png")
+
+# show the image
+cv2.imshow('a window', image)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
+```
+
+2. Open the **command prompt** (windows) or **Terminal** (mac os, linux) at the current dirctory, we should install some packages via pip:
 
 ```
 $ pip install opencv-python
 ```
 
-Read and show an image:
+3. Read and show an image:
 
 ```
 $ python read_and_show_an_image.py
 ```
-
-
 
