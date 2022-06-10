@@ -39,6 +39,14 @@
   $ bash anaconda-xxx.sh
   ```
 
+  Please add **PATH** to the environment:
+
+  ```
+  $ vim ~/.bashrc
+  ```
+
+  Add `export PATH="/your/path/to/anaconda3/bin:$PATH"` to **.bashrc**
+
 **Step 3 - Verify Python is installed on your platform**
 
 ​     Open the **command prompt** (windows) or **Terminal** (mac os) and type:	
