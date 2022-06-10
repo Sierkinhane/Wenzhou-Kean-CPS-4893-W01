@@ -65,3 +65,23 @@ If you see the Zen of Python, the installation was successful. Exit out of the P
 >>> exit()
 ```
 
+### 2. Installing Sublime Text
+
+For convinience, I recommend sublime text for coding small projects. You can download it on [the official website](https://www.sublimetext.com/) according your system.
+
+### 3. Read and Show An Image
+
+ Open the **command prompt** (windows) or **Terminal** (mac os), we should install some packages via pip:
+
+```
+$ pip install opencv-python
+```
+
+Read and show an image:
+
+```
+$ python read_and_show_an_image.py
+```
+
+
+
