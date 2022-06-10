@@ -79,19 +79,7 @@ For convinience, I recommend sublime text for coding small projects. You can dow
 
 ### 3. Read and Show An Image
 
-1. Download the source code at [here](https://github.com/Sierkinhane/Wenzhou-Kean-CPS-4893-W01/archive/refs/heads/master.zip) and uzip them:
-
-```
-import cv2
-
-# load an image
-image = cv2.imread("images/logo_cn.png")
-
-# show the image
-cv2.imshow('a window', image)
-cv2.waitKey(0)
-cv2.destroyAllWindows()
-```
+1. Download the source code at [here](https://github.com/Sierkinhane/Wenzhou-Kean-CPS-4893-W01/archive/refs/heads/master.zip) and uzip it:
 
 2. Open the **command prompt** (windows) or **Terminal** (mac os, linux) at the current dirctory, we should install some packages via pip:
 
