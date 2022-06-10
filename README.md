@@ -39,7 +39,7 @@
   $ bash anaconda-xxx.sh
   ```
 
-**Step 3 - Verify Python is installed on your platform **
+**Step 3 - Verify Python is installed on your platform**
 
 ​     Open the **command prompt** (windows) or **Terminal** (mac os) and type:	
 
