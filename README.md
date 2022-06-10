@@ -75,7 +75,7 @@ If you see the Zen of Python, the installation was successful. Exit out of the P
 
 ### 2. Install Sublime Text
 
-For convinience, I recommend sublime text for coding small projects. You can download it on [the official website](https://www.sublimetext.com/) according your system.
+For convinience, I recommend sublime text for coding small projects. You can download it on [the official website](https://www.sublimetext.com/) according to your system.
 
 ### 3. Read and Show An Image
 
