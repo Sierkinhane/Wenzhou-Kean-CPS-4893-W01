@@ -1,6 +1,6 @@
 import cv2
 
-# load an image
+# read an image
 image = cv2.imread("images/logo_cn.png")
 
 # show the image

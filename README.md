@@ -94,7 +94,7 @@ Exit out of the Python REPL using the command `exit()`. Make sure to include the
 
 ### 2. Install Sublime Text
 
-For convenience, I recommend **Sublime Text** for your coding. You can download it on [the official website](https://www.sublimetext.com/) according to your system.
+For convenience, I recommend **Sublime Text** for coding your projects. You can download it on [the official website](https://www.sublimetext.com/) according to your system.
 
 ### 3. Read and Show An Image
 
@@ -104,6 +104,7 @@ For convenience, I recommend **Sublime Text** for your coding. You can download 
 
 ```
 $ pip install opencv-python
+$ pip install numpy
 ```
 
 3. Read and show an image:
