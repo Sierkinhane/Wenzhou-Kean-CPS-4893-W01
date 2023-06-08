@@ -1,7 +1,7 @@
 import cv2
 
 # read an image
-image = cv2.imread("images/logo_cn.png")
+image = cv2.imread("images/IMG_5407.jpeg")
 
 # show the image
 cv2.imshow('a window', image)
